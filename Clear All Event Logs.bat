@@ -1,5 +1,4 @@
-:: MajorGeeks.Com
-:: https://www.majorgeeks.com/content/page/how_to_clear_all_event_logs_in_event_viewer_in_windows.html
+
 
 @echo off
 
