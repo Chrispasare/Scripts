@@ -16,7 +16,7 @@ wevtutil.exe cl %1
 goto :eof
 
 :noAdmin
-echo Danger, Will Robinson!
+echo Houston we got a problem
 echo This bat file must be run as administrator 
 echo Press the Enter key to close this window 
 echo Right-click on "Clear All Event Logs.bat" and select "Run as administrator"  
